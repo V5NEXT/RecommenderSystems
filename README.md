@@ -1,2 +1,2 @@
 # RecommenderSystems
-Recommender system Model 
+Recommender systems model construction
