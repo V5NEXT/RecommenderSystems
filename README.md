@@ -2,3 +2,4 @@
 Recommender systems model construction
 
 Languages Used : Python
+Tools : Pandas, numpy, sklearn
